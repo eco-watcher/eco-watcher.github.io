@@ -35,8 +35,10 @@ ul, li {
 
 #map svg {
     width: 100%;
-    max-height: 98vh;
+    max-height: 100vh;
+    min-height: 100vh;
 }
+
 
 #manhattan {
     
